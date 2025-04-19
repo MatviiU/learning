@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.favorite_places.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.favorite_places.app-mergeDebugResources-26:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "D:\\flutter_learning\\learning\\favorite_places\\android\\app\\src\\main\\res\\values-night\\styles.xml",
